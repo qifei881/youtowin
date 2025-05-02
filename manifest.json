@@ -1,6 +1,6 @@
 {
-  "short_name": "Web3 Lottery",
-  "name": "Web3 Lottery DApp",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#6851ff",
-  "background_color": "#0f1023"
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
